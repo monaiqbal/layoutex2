@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+}
+
+
+.head{
+    background-color: chartreuse;
+    text-align: center;
+    height: 200px;
+
+}
+.content{
+    overflow: hidden;
+}
+.nav{
+    background-color: cornflowerblue;
+    width: 20%;
+    height: 500px;
+    float: left;
+}
+.article{
+    background-color: darkcyan;
+    width: 60%;
+    height: 500px;
+    float: left;
+    text-align: center;
+}
+.ads{
+    background-color: darkgoldenrod;
+    width: 20%;
+    height: 500px;
+    float: right;
+}
+.foot{
+    background-color: chocolate;
+    text-align: center;
+    height: 200px;
+}
